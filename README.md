@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @JayTWill
+- 👀 I’m interested in Full Stack Web Development and Data Anaylitics...
+- 🌱 I’m currently learning Javascript, Python, Java, HTML, and CSS with more to come...
+- 📫 The best way to reach me is through my email jamallwilliams10@gmail.com...
+
+<!---
+JayTWill/JayTWill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
