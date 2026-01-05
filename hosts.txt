@@ -1,0 +1,4 @@
+# Custom Hosts File for Blocking Specific Domains
+#
+
+127.0.0.1 joinhoney.com
